@@ -8,3 +8,6 @@ Environmental DNA (eDNA) analysis has proven to be a powerful tool for biodivers
 Many of the problems faced by biodiversity researchers using computational methods and big data are similar to problems identified in other areas, such as software development and cloud computing. To that end, this project will compile a synthesis of literature that describes the technological solutions available for performing reproducible identification and monitoring of biodiversity, using eDNA technology.
 
 A reproducible approach to analysing this type of data will enable data sources of different origin and quality to be combined and analysed together, even as new technologies develop, thereby enabling comparison of results across for example long time series suitable for national monitoring programs. Through this synthesis we will identify reproducibility problems faced in eDNA analyses, highlight how these problems are currently being handled, and discuss the potential for knowledge transfer from adjacent fields using big data.
+
+### Metadata
+Location on Albiorix: /proj/data25/Reproducible-analysis-of-eDNA-for-national-biodiversity-monitoring-programs
