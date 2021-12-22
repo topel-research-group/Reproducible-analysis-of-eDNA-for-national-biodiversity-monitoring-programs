@@ -11,3 +11,4 @@ A reproducible approach to analysing this type of data will enable data sources 
 
 ### Metadata
 Location on Albiorix: /proj/data25/Reproducible-analysis-of-eDNA-for-national-biodiversity-monitoring-programs
+Required modules: Anaconda3/v2021.11
