@@ -1,0 +1,2 @@
+# Introduction
+For the Scopus database we are using the [pybliometrics](https://github.com/pybliometrics-dev/pybliometrics) library to access their API. Documentation is available at [readthedocs](https://pybliometrics.readthedocs.io/en/stable/), and a paper describing the software is available [here](https://reader.elsevier.com/reader/sd/pii/S2352711019300573?token=DD2D81BD5326A47D43745CCC5A025DFB18666DC390A1F20702EC7B882BF3D5F34F66E91C31AE4EE651E6CEF7D1804401&originRegion=eu-west-1&originCreation=20211222112940).
