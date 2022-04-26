@@ -1,0 +1,31 @@
+# Search terms for finding appropriate papers for the synthesis
+
+("eDNA" OR "environmental DNA" OR "metabarcoding" OR "eRNA" OR "environmental RNA") AND ("biodiversity" OR "species richness" OR "monitoring" OR "biomonitoring") AND ("high throughput sequencing" OR "HTS" OR "throughput")
+
+###
+
+("environmental DNA" OR "eDNA" OR "metabarcoding" OR "environmental RNA" OR "eRNA")
+* 'Diatom DNA Metabarcoding' paper doesn’t use the terms related to 'eDNA', so is missed using this string…
+
+("biodiversity" OR "species richness" OR "monitoring" OR "biomonitoring")
+
+("high throughput sequencing" OR "HTS" OR "throughput")
+* 'Annual Time-Series' benchmark paper may require the use of 'throughput' as a search string
+
+## Results
+Using the three above brackets returns:
+* 417 results in PubMed
+* 1,841 results in PubMed without the HTS bracket
+
+
+
+
+
+
+## Other possible search strings
+
+NOT ("qPCR" OR "quantitative PCR")
+* This would miss papers dealing with qPCR AND eDNA
+
+NOT ("ddPCR" OR "droplet digital PCR")
+
