@@ -1,7 +1,7 @@
 class Publication(object):
     # Class describing the different publications
     def __init__(self, title, authors = None, doi = None, abstract = None, identifyer = None):
-        self.title = title
+        self.title = title.rstrip(".")
         self.authors = authors
         self.doi = doi
         self.abstract = abstract
@@ -57,5 +57,5 @@ class Publication(object):
         return hash(self.title)
     
     def __eq__(self, other):
-        return self.title == other.title
+        return self.title.lower() == other.title.lower()
     
