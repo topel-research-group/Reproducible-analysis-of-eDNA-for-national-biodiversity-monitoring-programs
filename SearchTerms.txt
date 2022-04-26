@@ -15,7 +15,7 @@
 ## Results
 
 BASE - API key required...
-DIVA - 334 hits (with a query of 'eDNA' only)
+DIVA - 334 hits (with a query of 'eDNA' only'; 22 if the full query is used)
 Libris - 11 hits (1,391 if we use only 'eDNA')
 Swepub - 33 hits (342 if we use only 'eDNA')
 PubMed - 417 hits
