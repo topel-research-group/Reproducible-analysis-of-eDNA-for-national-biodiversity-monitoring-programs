@@ -27,8 +27,8 @@ class Publication(object):
 
     def to_html(self):
     # Return information in html-format
-	
-	# DOI
+
+        # DOI
         try:
             doi = "<p><a href=\"https://doi.org/" + \
                   self.doi + \
@@ -40,7 +40,7 @@ class Publication(object):
         except:
             doi = "<p>No DOI</p>"
 
-	# Identifyer
+        # Identifyer
         try:
             identifyer = f"<p><a href={self.identifyer}>{self.identifyer}</a></p>"
         except:
@@ -58,3 +58,4 @@ class Publication(object):
     
     def __eq__(self, other):
         return self.title == other.title
+    
