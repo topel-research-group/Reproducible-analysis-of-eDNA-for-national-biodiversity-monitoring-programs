@@ -13,13 +13,16 @@
 * 'Annual Time-Series' benchmark paper may require the use of 'throughput' as a search string
 
 ## Results
-Using the three above brackets returns:
-* 417 results in PubMed
-* 1,841 results in PubMed without the HTS bracket
 
+BASE - API key required...
+DIVA - 334 hits (with a query of 'eDNA' only'; 22 if the full query is used)
+Libris - 11 hits (1,391 if we use only 'eDNA')
+Swepub - 33 hits (342 if we use only 'eDNA')
+PubMed - 417 hits
+Scopus - API key required...
+Worldcat - API key required...
 
-
-
+Note that 'eDNA' is not searched for in a case-sensitive manner, so some spurious hits arise when using 'eDNA' as the sole search term
 
 
 ## Other possible search strings
