@@ -37,7 +37,6 @@ Diatom metabarcoding applied to large scale monitoring networks: Optimization of
 Disentangling bias for non-destructive insect metabarcoding
 Diversity and ecology of protists revealed by metabarcoding
 Diversity of Pico- to Mesoplankton along the 2000 km Salinity Gradient of the Baltic Sea
-Diversity of Pico- to Mesoplankton along the 2000 km Salinity Gradient of the Baltic Sea
 DNA barcoding and emerging reference construction and data analysis technologies
 DNA in a bottle-Rapid metabarcoding survey for early alerts of invasive species in ports
 DNA metabarcoding adds valuable information for management of biodiversity in roadside stormwater ponds
@@ -106,7 +105,6 @@ obitools: a unix-inspired software package for DNA metabarcoding
 Omics Advances in Ecotoxicology
 One step forwards for the routine use of high-throughput DNA sequencing in environmental monitoring. An efficient and standardizable method to maximize the detection of environmental bacteria
 Performance of DNA metabarcoding, standard barcoding, and morphological approach in the identification of hostparasitoid interactions
-Perspectives from Ten Years of Protist Studies by High-Throughput Metabarcoding
 Perspectives from Ten Years of Protist Studies by High-Throughput Metabarcoding
 PhytoREF: a reference database of the plastidial 16S rRNA gene of photosynthetic eukaryotes with curated taxonomy
 Pollen DNA barcoding: current applications and future prospects
