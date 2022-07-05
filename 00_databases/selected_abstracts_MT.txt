@@ -3,146 +3,149 @@ Potential applications of CRISPR/Cas for next-generation biomonitoring of harmfu
 Massively parallel sequencing is unlocking the potential of environmental trace evidence
 Åtgärdsprogram för temporära sötvatten : med fokus på organismer i naturbetesmarker, hällkar och alvarmiljöer
 
-# General eDNA paper:
-A pilot study of eDNA metabarcoding to estimate plant biodiversity by an alpine glacier core (Adamello glacier, North Italy)
-Airborne microbial biodiversity and seasonality in Northern and Southern Sweden
-Biodiversity between sand grains: Meiofauna composition across southern and western Sweden assessed by metabarcoding
-Diversity of Pico- to Mesoplankton along the 2000 km Salinity Gradient of the Baltic Sea
-ystematic comparison of the relative accuracy of vegetation surveys and soil DNA metabarcoding : Assessing plant biodiversity at different spatial scales
-Disentangling bias for non-destructive insect metabarcoding
-Next generation restoration metrics: Using soil eDNA bacterial community data to measure trajectories towards rehabilitation targets
-A high-throughput amplicon sequencing approach for population-wide species diversity and composition survey
-High-Throughput Sequencing of Environmental DNA as a Tool for Monitoring Eukaryotic Communities and Potential Pathogens in a Coastal Upwelling Ecosystem
-RNA metabarcoding helps reveal zooplankton community response to environmental stressors
-Seeing through sedimented waters: environmental DNA reduces the phantom diversity of sharks and rays in turbid marine habitats
-Characterizing parasitic nematode faunas in faeces and soil using DNA metabarcoding
-Space-time dynamics in monitoring neotropical fish communities using eDNA metabarcoding
-dvancing biodiversity assessments with environmental DNA: Long-read technologies help reveal the drivers of Amazonian fungal diversity
-Executing multi-taxa eDNA ecological assessment via traditional metrics and interactive networks
-DNA Metabarcoding as a Tool for Disentangling Food Webs in Agroecosystems
-Environmental DNA analysis shows high potential as a tool for estimating intraspecific genetic diversity in a wild fish population
-DNA metabarcoding adds valuable information for management of biodiversity in roadside stormwater ponds
-High-throughput environmental DNA analysis informs a biological assessment of an urban stream
-Evaluating next-generation sequencing (NGS) methods for routine monitoring of wild bees: Metabarcoding, mitogenomics or NGS barcoding
-Omics Advances in Ecotoxicology
-Annual time-series analysis of aqueous eDNA reveals ecologically relevant dynamics of lake ecosystem biodiversity
-eDNA metabarcoding: a promising method for anuran surveys in highly diverse tropical forests
-Barcoding the food chain: from Sanger to high-throughput sequencing
-Censusing marine eukaryotic diversity in the twenty-first century
-DNA metabarcoding of insects and allies: an evaluation of primers and pipelines
-Monitoring endangered freshwater biodiversity using environmental DNA
-Global soil microbiomes: A new frontline of biome-ecology research
-High-frequency and long-term observations of eDNA from imperiled salmonids in a coastal stream: Temporal dynamics, relationships with environmental factors, and comparisons with conventional observations
-High-throughput sequencing view on the magnitude of global fungal diversity
-Revealing hidden plant diversity in arid environments
-Diatom metabarcoding applied to large scale monitoring networks: Optimization of bioinformatics strategies using Mothur software
-Biodiversity assessments in the 21st century: The potential of insect traps to complement environmental samples for estimating eukaryotic and prokaryotic diversity using high-throughput DNA metabarcoding
-Needle in a haystack? A comparison of eDNA metabarcoding and targeted qPCR for detection of the great crested newt (Triturus cristatus)
-The need for standardisation: Exemplified by a description of the diversity, community structure and ecological indices of soil nematodes
-High-throughput techniques as support for knowledge-based spatial conservation prioritization in mangrove ecosystems
+# General eDNA paper: 48
+	A pilot study of eDNA metabarcoding to estimate plant biodiversity by an alpine glacier core (Adamello glacier, North Italy)
+	Airborne microbial biodiversity and seasonality in Northern and Southern Sweden
+	Biodiversity between sand grains: Meiofauna composition across southern and western Sweden assessed by metabarcoding
+	Diversity of Pico- to Mesoplankton along the 2000 km Salinity Gradient of the Baltic Sea
+	Systematic comparison of the relative accuracy of vegetation surveys and soil DNA metabarcoding : Assessing plant biodiversity at different spatial scales
+	Disentangling bias for non-destructive insect metabarcoding
+	Next generation restoration metrics: Using soil eDNA bacterial community data to measure trajectories towards rehabilitation targets
+	A high-throughput amplicon sequencing approach for population-wide species diversity and composition survey
+	High-Throughput Sequencing of Environmental DNA as a Tool for Monitoring Eukaryotic Communities and Potential Pathogens in a Coastal Upwelling Ecosystem
+	RNA metabarcoding helps reveal zooplankton community response to environmental stressors
+	Seeing through sedimented waters: environmental DNA reduces the phantom diversity of sharks and rays in turbid marine habitats
+	Characterizing parasitic nematode faunas in faeces and soil using DNA metabarcoding
+	Space-time dynamics in monitoring neotropical fish communities using eDNA metabarcoding
+	Advancing biodiversity assessments with environmental DNA: Long-read technologies help reveal the drivers of Amazonian fungal diversity
+	Executing multi-taxa eDNA ecological assessment via traditional metrics and interactive networks
+	DNA Metabarcoding as a Tool for Disentangling Food Webs in Agroecosystems
+	Environmental DNA analysis shows high potential as a tool for estimating intraspecific genetic diversity in a wild fish population
+	DNA metabarcoding adds valuable information for management of biodiversity in roadside stormwater ponds
+	High-throughput environmental DNA analysis informs a biological assessment of an urban stream
+	Evaluating next-generation sequencing (NGS) methods for routine monitoring of wild bees: Metabarcoding, mitogenomics or NGS barcoding
+	Omics Advances in Ecotoxicology
+	Annual time-series analysis of aqueous eDNA reveals ecologically relevant dynamics of lake ecosystem biodiversity
+	eDNA metabarcoding: a promising method for anuran surveys in highly diverse tropical forests
+	Barcoding the food chain: from Sanger to high-throughput sequencing
+	Censusing marine eukaryotic diversity in the twenty-first century
+	DNA metabarcoding of insects and allies: an evaluation of primers and pipelines
+	Monitoring endangered freshwater biodiversity using environmental DNA
+Global soil microbiomes: A new frontline of biome-ecology research 
+*Requested from ResearchGate
+	High-frequency and long-term observations of eDNA from imperiled salmonids in a coastal stream: Temporal dynamics, relationships with environmental factors, and comparisons with conventional observations
+	High-throughput sequencing view on the magnitude of global fungal diversity
+	Revealing hidden plant diversity in arid environments
+	Diatom metabarcoding applied to large scale monitoring networks: Optimization of bioinformatics strategies using Mothur software
+	Biodiversity assessments in the 21st century: The potential of insect traps to complement environmental samples for estimating eukaryotic and prokaryotic diversity using high-throughput DNA metabarcoding
+	Needle in a haystack? A comparison of eDNA metabarcoding and targeted qPCR for detection of the great crested newt (Triturus cristatus)
+	The need for standardisation: Exemplified by a description of the diversity, community structure and ecological indices of soil nematodes
+	High-throughput techniques as support for knowledge-based spatial conservation prioritization in mangrove ecosystems
 Linking DNA Metabarcoding and Text Mining to Create Network-Based Biomonitoring Tools: A Case Study on Boreal Wetland Macroinvertebrate Communities
-Performance of DNA metabarcoding, standard barcoding, and morphological approach in the identification of hostparasitoid interactions
+*Requested from Researchgate
+	Performance of DNA metabarcoding, standard barcoding, and morphological approach in the identification of hostparasitoid interactions
 Invasions Toolkit: Current Methods for Tracking the Spread and Impact of Invasive Species
-Assessing strengths and weaknesses of DNA metabarcoding-based macroinvertebrate identification for routine stream monitoring
-Benchmarking DNA metabarcoding for biodiversity-based monitoring and assessment
-Metabarcoding approach for the ballast water surveillance - An advantageous solution or an awkward challenge?
-Accounting for uncertainty in species delineation during the analysis of environmental DNA sequence data
-Debugging metabarcoding for insect biodiversity studies
-Airborne environmental DNA for terrestrial vertebrate community monitoring
-Monitoring of spatiotemporal occupancy patterns of fish and amphibian species in a lentic aquatic system using environmental DNA
-An urban Blitz with a twist : rapid biodiversity assessment using aquatic environmental DNA
-Diversity of Pico- to Mesoplankton along the 2000 km Salinity Gradient of the Baltic Sea
+*Requested from Researchgate
+	Assessing strengths and weaknesses of DNA metabarcoding-based macroinvertebrate identification for routine stream monitoring
+	Benchmarking DNA metabarcoding for biodiversity-based monitoring and assessment
+	Metabarcoding approach for the ballast water surveillance - An advantageous solution or an awkward challenge?
+	Accounting for uncertainty in species delineation during the analysis of environmental DNA sequence data
+	Debugging metabarcoding for insect biodiversity studies
+	Airborne environmental DNA for terrestrial vertebrate community monitoring
+	Monitoring of spatiotemporal occupancy patterns of fish and amphibian species in a lentic aquatic system using environmental DNA
+	An urban Blitz with a twist : rapid biodiversity assessment using aquatic environmental DNA
 
 # Software and methods: 19
-Great differences in performance and outcome of high-throughput sequencing data analysis platforms for fungal metabarcoding
-LANDMark: an ensemble approach to the supervised selection of biomarkers in high-throughput sequencing data
-Just keep it simple? Benchmarking the accuracy of taxonomy assignment software in metabarcoding studies
-High-throughput sequencing on preservative ethanol is effective at jointly examining infraspecific and taxonomic diversity, although bioinformatics pipelines do not perform equally
-A taxonomy-free approach based on machine learning to assess the quality of rivers with diatoms
-SLIM: a flexible web application for the reproducible processing of environmental DNA metabarcoding data
-Supervised machine learning outperforms taxonomy-based environmental DNA metabarcoding applied to biomonitoring
-FuzzyID2: A software package for large data set species identification via barcoding and metabarcoding using hidden Markov models and fuzzy set methods
-Predicting the Ecological Quality Status of Marine Environments from eDNA Metabarcoding Data Using Supervised Machine Learning
-obitools: a unix-inspired software package for DNA metabarcoding
-PhytoREF: a reference database of the plastidial 16S rRNA gene of photosynthetic eukaryotes with curated taxonomy
-Environmental genes and genomes: understanding the differences and challenges in the approaches and software for their analyses
-Improved inference of taxonomic richness from environmental DNA
-metabaR: An r package for the evaluation and improvement of DNA metabarcoding data quality
-Diatom DNA Metabarcoding for Biomonitoring: Strategies to Avoid Major Taxonomical and Bioinformatical Biases Limiting Molecular Indices Capacities
-Anacapa Toolkit: An environmental DNA toolkit for processing multilocus metabarcode datasets
-Scaling up DNA metabarcoding for freshwater macrozoobenthos monitoring
-DNA barcoding and emerging reference construction and data analysis technologies
-Combining NCBI and BOLD databases for OTU assignment in metabarcoding and metagenomic datasets: The BOLD-NCBI-Merger
+	Great differences in performance and outcome of high-throughput sequencing data analysis platforms for fungal metabarcoding
+	LANDMark: an ensemble approach to the supervised selection of biomarkers in high-throughput sequencing data
+	Just keep it simple? Benchmarking the accuracy of taxonomy assignment software in metabarcoding studies
+	High-throughput sequencing on preservative ethanol is effective at jointly examining infraspecific and taxonomic diversity, although bioinformatics pipelines do not perform equally
+	A taxonomy-free approach based on machine learning to assess the quality of rivers with diatoms
+	SLIM: a flexible web application for the reproducible processing of environmental DNA metabarcoding data
+	Supervised machine learning outperforms taxonomy-based environmental DNA metabarcoding applied to biomonitoring
+	FuzzyID2: A software package for large data set species identification via barcoding and metabarcoding using hidden Markov models and fuzzy set methods
+	Predicting the Ecological Quality Status of Marine Environments from eDNA Metabarcoding Data Using Supervised Machine Learning
+	obitools: a unix-inspired software package for DNA metabarcoding
+	PhytoREF: a reference database of the plastidial 16S rRNA gene of photosynthetic eukaryotes with curated taxonomy
+	Environmental genes and genomes: understanding the differences and challenges in the approaches and software for their analyses
+	Improved inference of taxonomic richness from environmental DNA
+	metabaR: An r package for the evaluation and improvement of DNA metabarcoding data quality
+	Diatom DNA Metabarcoding for Biomonitoring: Strategies to Avoid Major Taxonomical and Bioinformatical Biases Limiting Molecular Indices Capacities
+	Anacapa Toolkit: An environmental DNA toolkit for processing multilocus metabarcode datasets
+	Scaling up DNA metabarcoding for freshwater macrozoobenthos monitoring
+	DNA barcoding and emerging reference construction and data analysis technologies
+	Combining NCBI and BOLD databases for OTU assignment in metabarcoding and metagenomic datasets: The BOLD-NCBI-Merger
 
-# Future perspectives and recommendations:
-High throughput shotgun sequencing of eRNA reveals taxonomic and derived functional shifts across a benthic productivity gradient
-Lake sedimentary dna research on past terrestrial and aquatic biodiversity: Overview and recommendations
-Perspectives from Ten Years of Protist Studies by High-Throughput Metabarcoding
-Best practices in metabarcoding of fungi: From experimental design to results
-Ichthyoplankton DNA metabarcoding: Challenges and perspectives
-Diversity and ecology of protists revealed by metabarcoding
-A Standardized Procedure for Monitoring Harmful Algal Blooms in Chile by Metabarcoding Analysis
-Connecting high-throughput biodiversity inventories: Opportunities for a site-based genomic framework for global integration and synthesis
-Standards for Methods Utilizing Environmental DNA for Detection of Fish Species
-High-throughput sequencing for community analysis: the promise of DNA barcoding to uncover diversity, relatedness, abundances and interactions in spider communities
-Genetic Biomonitoring and Biodiversity Assessment Using Portable Sequencing Technologies: Current Uses and Future Directions
-From Microscopy to Genomic Approach in Soil Biodiversity Assessment
-DNA in a bottle-Rapid metabarcoding survey for early alerts of invasive species in ports
-One step forwards for the routine use of high-throughput DNA sequencing in environmental monitoring. An efficient and standardizable method to maximize the detection of environmental bacteria
-Pollen DNA barcoding: current applications and future prospects
-Advances in DNA metabarcoding for food and wildlife forensic species identification
-Protist metabarcoding and environmental biomonitoring: Time for change
-Standardizing metadata and taxonomic identification in metabarcoding studies
-Next-generation environmental diversity surveys of foraminifera: preparing the future
-Next generation restoration genetics: applications and opportunities
-Towards next-generation biodiversity assessment using DNA metabarcoding
-Next-generation sequencing technologies for environmental DNA research
+# Future perspectives and recommendations: 43
+	High throughput shotgun sequencing of eRNA reveals taxonomic and derived functional shifts across a benthic productivity gradient
+	Lake sedimentary dna research on past terrestrial and aquatic biodiversity: Overview and recommendations
+	Perspectives from Ten Years of Protist Studies by High-Throughput Metabarcoding
+	Best practices in metabarcoding of fungi: From experimental design to results
+	Ichthyoplankton DNA metabarcoding: Challenges and perspectives
+	Diversity and ecology of protists revealed by metabarcoding
+	A Standardized Procedure for Monitoring Harmful Algal Blooms in Chile by Metabarcoding Analysis
+	Connecting high-throughput biodiversity inventories: Opportunities for a site-based genomic framework for global integration and synthesis
+	Standards for Methods Utilizing Environmental DNA for Detection of Fish Species
+	High-throughput sequencing for community analysis: the promise of DNA barcoding to uncover diversity, relatedness, abundances and interactions in spider communities
+	Genetic Biomonitoring and Biodiversity Assessment Using Portable Sequencing Technologies: Current Uses and Future Directions
+	From Microscopy to Genomic Approach in Soil Biodiversity Assessment
+	DNA in a bottle-Rapid metabarcoding survey for early alerts of invasive species in ports
+	One step forwards for the routine use of high-throughput DNA sequencing in environmental monitoring. An efficient and standardizable method to maximize the detection of environmental bacteria
+	Pollen DNA barcoding: current applications and future prospects
+	Advances in DNA metabarcoding for food and wildlife forensic species identification
+	Protist metabarcoding and environmental biomonitoring: Time for change
+	Standardizing metadata and taxonomic identification in metabarcoding studies
+	Next-generation environmental diversity surveys of foraminifera: preparing the future
+	Next generation restoration genetics: applications and opportunities
+	Towards next-generation biodiversity assessment using DNA metabarcoding
+	Next-generation sequencing technologies for environmental DNA research
 Coupling ecological network analysis with high-throughput sequencing-based surveys: Lessons from the next-generation biomonitoring project
-The future of dna barcoding: Reflections from early career researchers
-eDNAir: Proof of concept that animal DNA can be collected from air sampling
-Metabarcoding From Microbes to Mammals: Comprehensive Bioassessment on a Global Scale
-Applications of environmental DNA (eDNA) in ecology and conservation: opportunities, challenges and prospects
-A practical guide to DNA metabarcoding for entomological ecologists
-Relevance of plant and fungal DNA metabarcoding in aerobiology
-Advances and prospects of environmental DNA in neotropical rainforests
-Studying Ecosystems With DNA Metabarcoding: Lessons From Biomonitoring of Aquatic Macroinvertebrates
-A review on the applications and recent advances in environmental DNA (eDNA) metagenomics
-Why We Need Sustainable Networks Bridging Countries, Disciplines, Cultures and Generations for Aquatic Biomonitoring 2.0: A Perspective Derived From the DNAqua-Net COST Action
-Metabarcoding techniques for assessing biodiversity of marine animal forests
-Freshwater biomonitoring in the Information Age
-Application of environmental DNA metabarcoding in ecology
-How will the 'molecular revolution' contribute to biological recording?
-Rare biosphere exploration using high-throughput sequencing: research progress and perspectives
-Next generation sequencing for characterizing biodiversity: promises and challenges
-DNA (meta)barcoding of biological invasions: a powerful tool to elucidate invasion processes and help managing aliens
-A Synthesis of Marine Monitoring Methods With the Potential to Enhance the Status Assessment of the Baltic Sea
-Miljöövervakning av växtplankton i Kattegatt och Östersjön med rDNA-barcoding och mikroskopi : En jämförelse av molekylärbiologisk metodik och mikroskopi
-Perspectives from Ten Years of Protist Studies by High-Throughput Metabarcoding
+*Requested from Researchgate
+	The future of dna barcoding: Reflections from early career researchers
+	eDNAir: Proof of concept that animal DNA can be collected from air sampling
+	Metabarcoding From Microbes to Mammals: Comprehensive Bioassessment on a Global Scale
+	Applications of environmental DNA (eDNA) in ecology and conservation: opportunities, challenges and prospects
+	A practical guide to DNA metabarcoding for entomological ecologists
+	Relevance of plant and fungal DNA metabarcoding in aerobiology
+	Advances and prospects of environmental DNA in neotropical rainforests
+	Studying Ecosystems With DNA Metabarcoding: Lessons From Biomonitoring of Aquatic Macroinvertebrates
+	A review on the applications and recent advances in environmental DNA (eDNA) metagenomics
+	Why We Need Sustainable Networks Bridging Countries, Disciplines, Cultures and Generations for Aquatic Biomonitoring 2.0: A Perspective Derived From the DNAqua-Net COST Action
+	Metabarcoding techniques for assessing biodiversity of marine animal forests
+	Freshwater biomonitoring in the Information Age
+	Application of environmental DNA metabarcoding in ecology
+	How will the 'molecular revolution' contribute to biological recording?
+	Rare biosphere exploration using high-throughput sequencing: research progress and perspectives
+	Next generation sequencing for characterizing biodiversity: promises and challenges
+	DNA (meta)barcoding of biological invasions: a powerful tool to elucidate invasion processes and help managing aliens
+	A Synthesis of Marine Monitoring Methods With the Potential to Enhance the Status Assessment of the Baltic Sea
+	Miljöövervakning av växtplankton i Kattegatt och Östersjön med rDNA-barcoding och mikroskopi : En jämförelse av molekylärbiologisk metodik och mikroskopi
+	Perspectives from Ten Years of Protist Studies by High-Throughput Metabarcoding
 
 # Monitoring: 15
-Microbial DNA Sequencing in Environmental Studies
-Microbial metagenomics in the Baltic Sea : Recent advancements and prospects for environmental monitoring
-Zooplankton diversity monitoring strategy for the urban coastal region using metabarcoding analysis
-Environmental DNA Metabarcoding: A Novel Method for Biodiversity Monitoring of Marine Fish Communities
-A Review and Perspective of eDNA Application to Eutrophication and HAB Control in Freshwater and Marine Ecosystems
-Prospects and challenges of implementing DNA metabarcoding for high-throughput insect surveillance
-Scaling up: A guide to high-throughput genomic approaches for biodiversity analysis
-Genetic monitoring of open ocean biodiversity: An evaluation of DNA metabarcoding for processing continuous plankton recorder samples
-A new way to contemplate Darwin's tangled bank: how DNA barcodes are reconnecting biodiversity science and biomonitoring
-Potential of high-throughput eDNA sequencing of soil fungi and bacteria for monitoring ecological restoration in ultramafic substrates: The case study of the New Caledonian biodiversity hotspot
-Gaps in DNA-Based Biomonitoring Across the Globe
-Environmental DNA (eDNA)-metabarcoding-based early monitoring and warning for invasive species in aquatic ecosystems
-Molecular approaches for an operational marine biodiversity observation network
-Environmental DNA: For biodiversity research and monitoring
-DNA sequencing as a tool to monitor marine ecological status
-Utvärdering av ny övervakning av främmande arter : Metodjämförelse mellan traditionell och DNA-baserad identifiering
+	Microbial DNA Sequencing in Environmental Studies
+	Microbial metagenomics in the Baltic Sea : Recent advancements and prospects for environmental monitoring
+	Zooplankton diversity monitoring strategy for the urban coastal region using metabarcoding analysis
+	Environmental DNA Metabarcoding: A Novel Method for Biodiversity Monitoring of Marine Fish Communities
+	A Review and Perspective of eDNA Application to Eutrophication and HAB Control in Freshwater and Marine Ecosystems
+	Prospects and challenges of implementing DNA metabarcoding for high-throughput insect surveillance
+	Scaling up: A guide to high-throughput genomic approaches for biodiversity analysis
+	Genetic monitoring of open ocean biodiversity: An evaluation of DNA metabarcoding for processing continuous plankton recorder samples
+	A new way to contemplate Darwin's tangled bank: how DNA barcodes are reconnecting biodiversity science and biomonitoring
+	Potential of high-throughput eDNA sequencing of soil fungi and bacteria for monitoring ecological restoration in ultramafic substrates: The case study of the New Caledonian biodiversity hotspot
+	Gaps in DNA-Based Biomonitoring Across the Globe
+	Environmental DNA (eDNA)-metabarcoding-based early monitoring and warning for invasive species in aquatic ecosystems
+	Molecular approaches for an operational marine biodiversity observation network
+	Environmental DNA: For biodiversity research and monitoring
+	DNA sequencing as a tool to monitor marine ecological status
+	Utvärdering av ny övervakning av främmande arter : Metodjämförelse mellan traditionell och DNA-baserad identifiering
 
 # Reproducibility: 8
-Coming of age for COI metabarcoding of whole organism community DNA: Towards bioinformatic harmonisation
-Towards reproducible metabarcoding data: Lessons from an international cross-laboratory experiment
-eDNAFlow, an automated, reproducible and scalable workflow for analysis of environmental DNA sequences exploiting Nextflow and Singularity
-Natrix: a Snakemake-based workflow for processing, clustering, and taxonomically assigning amplicon sequencing reads
-BIOCOM-PIPE: a new user-friendly metabarcoding pipeline for the characterization of microbial diversity from 16S, 18S and 23S rRNA gene amplicons
-GenBank is a reliable resource for 21st century biodiversity research
-International Barcode of Life: Focus on big biodiversity in South Africa
-Environmental DNA metabarcoding: Transforming how we survey animal and plant communities
+	Coming of age for COI metabarcoding of whole organism community DNA: Towards bioinformatic harmonisation
+	Towards reproducible metabarcoding data: Lessons from an international cross-laboratory experiment
+	eDNAFlow, an automated, reproducible and scalable workflow for analysis of environmental DNA sequences exploiting Nextflow and Singularity
+	Natrix: a Snakemake-based workflow for processing, clustering, and taxonomically assigning amplicon sequencing reads
+	BIOCOM-PIPE: a new user-friendly metabarcoding pipeline for the characterization of microbial diversity from 16S, 18S and 23S rRNA gene amplicons
+	GenBank is a reliable resource for 21st century biodiversity research
+	International Barcode of Life: Focus on big biodiversity in South Africa
+	Environmental DNA metabarcoding: Transforming how we survey animal and plant communities
