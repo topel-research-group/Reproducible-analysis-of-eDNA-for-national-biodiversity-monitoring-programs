@@ -1,6 +1,6 @@
 ## Figure X - Number of nucleotide sequences in GenBank over time
 
-![Figure X](Sekvenser_i_GenBank.png)
+![Figure X](FigureX/Sekvenser_i_GenBank.png)
 
 Numbers were obtained from [NCBI](https://www.ncbi.nlm.nih.gov/genbank/statistics/) on September 1st 2022, and saved as `GenBank_Stats.tsv`.  
 For comprehension by ggplot2, dates were reformatted in bash:
@@ -22,3 +22,7 @@ cat GenBank_Stats.tsv | \
 ```
 
 The graph was then plotted using [`PlotGenBank.R`](PlotGenBank.R)
+
+## Figure Y - Number of papers fitting the four selection criteria
+
+![Figure Y](FigureY/FigureY.svg)
