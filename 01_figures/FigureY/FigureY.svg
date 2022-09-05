@@ -45,7 +45,8 @@
      inkscape:window-x="-9"
      inkscape:window-y="950"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg493" />
+     inkscape:current-layer="svg493"
+     inkscape:document-rotation="0" />
   <defs
      id="defs118">
     <g
@@ -569,76 +570,76 @@
   </g>
   <text
      xml:space="preserve"
-     style="font-size:11px;line-height:1.25;font-family:sans-serif, Italics;-inkscape-font-specification:'sans-serif, Italics';text-align:center;text-anchor:middle;stroke-width:0.75"
+     style="font-size:11px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;stroke-width:0.75;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
      x="59.418873"
-     y="94.120476"
+     y="86.620476"
      id="text1510"><tspan
        sodipodi:role="line"
        id="tspan1508"
        x="59.418873"
-       y="94.120476"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:center;text-anchor:middle;stroke-width:0.75">Analysparametrar</tspan><tspan
+       y="86.620476"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;stroke-width:0.75;">Analysparametrar</tspan><tspan
        sodipodi:role="line"
        x="59.418873"
-       y="108.14228"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:center;text-anchor:middle;stroke-width:0.75"
+       y="100.64228"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;stroke-width:0.75;"
        id="tspan1512">specificerade</tspan><tspan
        sodipodi:role="line"
        x="59.418873"
-       y="122.16408"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:center;text-anchor:middle;stroke-width:0.75"
+       y="114.66409"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;stroke-width:0.75;"
        id="tspan1514">(n = 49)</tspan></text>
   <text
      xml:space="preserve"
-     style="font-size:11px;line-height:1.25;font-family:sans-serif, Italics;-inkscape-font-specification:'sans-serif, Italics';text-align:center;text-anchor:middle;stroke-width:0.75"
+     style="font-size:11px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;stroke-width:0.75;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
      x="165.69562"
-     y="57.844872"
+     y="50.344872"
      id="text1510-5"><tspan
        sodipodi:role="line"
        x="165.69562"
-       y="57.844872"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:center;text-anchor:middle;stroke-width:0.75"
+       y="50.344872"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;stroke-width:0.75;"
        id="tspan1514-2">FAIR referensdatabas</tspan><tspan
        sodipodi:role="line"
        x="165.69562"
-       y="71.866676"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:center;text-anchor:middle;stroke-width:0.75"
+       y="64.366676"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;stroke-width:0.75;"
        id="tspan1553">(n = 41)</tspan></text>
   <text
      xml:space="preserve"
-     style="font-size:11px;line-height:1.25;font-family:sans-serif, Italics;-inkscape-font-specification:'sans-serif, Italics';text-align:center;text-anchor:middle;stroke-width:0.75"
+     style="font-size:11px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;stroke-width:0.75;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
      x="330.87823"
-     y="57.569027"
+     y="50.069027"
      id="text1510-5-7"><tspan
        sodipodi:role="line"
        x="330.87823"
-       y="57.569027"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:center;text-anchor:middle;stroke-width:0.75"
+       y="50.069027"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;stroke-width:0.75;"
        id="tspan1514-2-5">FAIR analyserad data</tspan><tspan
        sodipodi:role="line"
        x="330.87823"
-       y="71.590828"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:center;text-anchor:middle;stroke-width:0.75"
+       y="64.090828"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;stroke-width:0.75;"
        id="tspan1553-1">(n = 56)</tspan></text>
   <text
      xml:space="preserve"
-     style="font-size:11px;line-height:1.25;font-family:sans-serif, Italics;-inkscape-font-specification:'sans-serif, Italics';text-align:center;text-anchor:middle;stroke-width:0.75"
+     style="font-size:11px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;stroke-width:0.75;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
      x="447.60522"
-     y="94.002762"
+     y="86.502762"
      id="text1510-5-7-4"><tspan
        sodipodi:role="line"
        x="447.60522"
-       y="94.002762"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:center;text-anchor:middle;stroke-width:0.75"
+       y="86.502762"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;stroke-width:0.75;"
        id="tspan1553-1-8">Namn och</tspan><tspan
        sodipodi:role="line"
        x="447.60522"
-       y="108.02457"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:center;text-anchor:middle;stroke-width:0.75"
+       y="100.52457"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;stroke-width:0.75;"
        id="tspan1619">programversion</tspan><tspan
        sodipodi:role="line"
        x="447.60522"
-       y="122.04637"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:center;text-anchor:middle;stroke-width:0.75"
+       y="114.54637"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;stroke-width:0.75;"
        id="tspan1617">specificerad (n = 35)</tspan></text>
 </svg>
