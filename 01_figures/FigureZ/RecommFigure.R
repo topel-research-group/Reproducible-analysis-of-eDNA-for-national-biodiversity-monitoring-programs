@@ -5,7 +5,7 @@ library(cowplot)
 
 infile <- read.csv("RecommendationCategories.tsv", header=T, sep="\t")
 
-png("Förslag.png")
+svg("Förslag.svg")
 ggplot(infile, aes(x=reorder(Category, NumberOfPapers), y=NumberOfPapers)) +
 	geom_col(fill="blue") + coord_flip() +
 	geom_text(aes(label=NumberOfPapers), nudge_y = 2) +
