@@ -7,7 +7,8 @@ infile <- read.csv("RecommendationCategories.tsv", header=T, sep="\t")
 
 svg("Förslag.svg")
 ggplot(infile, aes(x=reorder(Category, NumberOfPapers), y=NumberOfPapers)) +
-	geom_col(fill="blue") + coord_flip() +
+#	geom_col(fill="blue") + coord_flip() +
+	geom_col(aes(fill=NumberOfPapers)) + coord_flip() +
 	geom_text(aes(label=NumberOfPapers), nudge_y = 2) +
 	labs(x = "Kategori", y="Antal artiklar",
 		title = "[Insert title here]") +
