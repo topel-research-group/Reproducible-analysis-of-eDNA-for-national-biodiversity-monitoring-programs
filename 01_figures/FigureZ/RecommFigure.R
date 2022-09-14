@@ -5,10 +5,10 @@ library(cowplot)
 
 infile <- read.csv("RecommendationCategories.tsv", header=T, sep="\t")
 
-svg("Förslag.svg")
+svg("Förslag.v2.svg")
 ggplot(infile, aes(x=reorder(Category, NumberOfPapers), y=NumberOfPapers)) +
 	geom_col(aes(fill=NumberOfPapers)) + coord_flip() +
-	geom_text(aes(label=NumberOfPapers), nudge_y = 2) +
+	geom_text(aes(label=NumberOfPapers), nudge_y = -1) +
 	scale_fill_gradient2(mid="yellow", high="red") +
 	labs(x = "Kategori", y="Antal artiklar",
 		title = "[Insert title here]") +
@@ -19,6 +19,7 @@ ggplot(infile, aes(x=reorder(Category, NumberOfPapers), y=NumberOfPapers)) +
 	theme(panel.spacing = unit(0.1, "lines")) +
 	theme(text=(element_text(size=12))) +
 	theme(axis.text=(element_text(size=13, colour = "Black"))) +
+	theme(axis.text.y=element_blank()) +
 	theme(panel.background = element_blank()) +
 	theme(legend.position="none") +
 	theme(aspect.ratio=1)
