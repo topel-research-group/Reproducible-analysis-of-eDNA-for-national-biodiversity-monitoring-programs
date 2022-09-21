@@ -1,9 +1,9 @@
-# Not relevant: 2
-Potential applications of CRISPR/Cas for next-generation biomonitoring of harmful algae blooms: A review
-Massively parallel sequencing is unlocking the potential of environmental trace evidence
-Åtgärdsprogram för temporära sötvatten : med fokus på organismer i naturbetesmarker, hällkar och alvarmiljöer
+# Not relevant: 3
+	Potential applications of CRISPR/Cas for next-generation biomonitoring of harmful algae blooms: A review
+	Massively parallel sequencing is unlocking the potential of environmental trace evidence
+	Åtgärdsprogram för temporära sötvatten : med fokus på organismer i naturbetesmarker, hällkar och alvarmiljöer
 
-# General eDNA paper: 48
+# General eDNA paper: 47
 	A pilot study of eDNA metabarcoding to estimate plant biodiversity by an alpine glacier core (Adamello glacier, North Italy)
 	Airborne microbial biodiversity and seasonality in Northern and Southern Sweden
 	Biodiversity between sand grains: Meiofauna composition across southern and western Sweden assessed by metabarcoding
@@ -76,7 +76,7 @@ Invasions Toolkit: Current Methods for Tracking the Spread and Impact of Invasiv
 	DNA barcoding and emerging reference construction and data analysis technologies
 	Combining NCBI and BOLD databases for OTU assignment in metabarcoding and metagenomic datasets: The BOLD-NCBI-Merger
 
-# Future perspectives and recommendations: 43
+# Future perspectives and recommendations: 42
 	High throughput shotgun sequencing of eRNA reveals taxonomic and derived functional shifts across a benthic productivity gradient
 	Lake sedimentary dna research on past terrestrial and aquatic biodiversity: Overview and recommendations
 	Perspectives from Ten Years of Protist Studies by High-Throughput Metabarcoding
@@ -101,7 +101,7 @@ Invasions Toolkit: Current Methods for Tracking the Spread and Impact of Invasiv
 	Next-generation sequencing technologies for environmental DNA research
 Coupling ecological network analysis with high-throughput sequencing-based surveys: Lessons from the next-generation biomonitoring project
 *Requested from Researchgate
-	The future of dna barcoding: Reflections from early career researchers
+	The future of DNA barcoding: Reflections from early career researchers
 	eDNAir: Proof of concept that animal DNA can be collected from air sampling
 	Metabarcoding From Microbes to Mammals: Comprehensive Bioassessment on a Global Scale
 	Applications of environmental DNA (eDNA) in ecology and conservation: opportunities, challenges and prospects
@@ -120,9 +120,8 @@ Coupling ecological network analysis with high-throughput sequencing-based surve
 	DNA (meta)barcoding of biological invasions: a powerful tool to elucidate invasion processes and help managing aliens
 	A Synthesis of Marine Monitoring Methods With the Potential to Enhance the Status Assessment of the Baltic Sea
 	Miljöövervakning av växtplankton i Kattegatt och Östersjön med rDNA-barcoding och mikroskopi : En jämförelse av molekylärbiologisk metodik och mikroskopi
-	Perspectives from Ten Years of Protist Studies by High-Throughput Metabarcoding
 
-# Monitoring: 15
+# Monitoring: 16
 	Microbial DNA Sequencing in Environmental Studies
 	Microbial metagenomics in the Baltic Sea : Recent advancements and prospects for environmental monitoring
 	Zooplankton diversity monitoring strategy for the urban coastal region using metabarcoding analysis
@@ -149,3 +148,7 @@ Coupling ecological network analysis with high-throughput sequencing-based surve
 	GenBank is a reliable resource for 21st century biodiversity research
 	International Barcode of Life: Focus on big biodiversity in South Africa
 	Environmental DNA metabarcoding: Transforming how we survey animal and plant communities
+
+# Benchmark papers: 2
+	eDNA in environmental monitoring
+	Metabarcoding for use in Nordic routine aquatic biomonitoring: a validation study
