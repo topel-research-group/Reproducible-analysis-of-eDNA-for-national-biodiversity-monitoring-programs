@@ -149,6 +149,8 @@ Coupling ecological network analysis with high-throughput sequencing-based surve
 	International Barcode of Life: Focus on big biodiversity in South Africa
 	Environmental DNA metabarcoding: Transforming how we survey animal and plant communities
 
-# Benchmark papers: 2
+# Benchmark papers: 4
 	eDNA in environmental monitoring
 	Metabarcoding for use in Nordic routine aquatic biomonitoring: a validation study
+	eDNA-based metabarcoding as a monitoring tool for fish in large lakes
+	Roadmap for implementing environmental DNA (eDNA) and other molecular monitoring methods in Finland	
