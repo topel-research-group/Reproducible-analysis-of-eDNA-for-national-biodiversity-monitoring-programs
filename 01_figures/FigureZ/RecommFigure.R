@@ -13,8 +13,8 @@ ggplot(infile, aes(x=reorder(Category, NumberOfPapers), y=NumberOfPapers)) +
 	scale_fill_gradient2(mid="yellow", high="red") +
 	scale_x_discrete(labels=c("Mitokondrie genom",
 				"Populationsgenetik",
-				"PCR-fria metoder",
 				"Miljö-RNA (eRNA)",
+				"PCR-fria metoder",
 				"Miljö-DNA i olika miljöer",
 				"Portabel sekvensering",
 				"Long-read sekvensering",
@@ -22,13 +22,13 @@ ggplot(infile, aes(x=reorder(Category, NumberOfPapers), y=NumberOfPapers)) +
 				"Dokumentation, metadata\noch reproducerbarhet",
 				"Övriga förslag",
 				"Nya bioinformatiska\nverktyg och modeller",
+				"Inga förslag",
 				"Standardisering",
 				"Provtagningsstrategier",
 				"Kvantitativ analys",
-				"Inga förslag",
 				"Utökade referenssekvenser")) +
 	labs(x = "Kategori", y="Antal artiklar",
-		title = "[Insert title here]") +
+		title = "Antal artiklar med framtida forskningsförslag") +
 	background_grid(major = "none", minor = "none") +
 	scale_y_continuous(breaks=seq(0,40,10), limits=c(0,40)) +
 	panel_border(colour = "black", size = 2) +
